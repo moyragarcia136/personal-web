@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Moyra Garcia",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4\n\n\n\nrunif(10)\n\n [1] 0.37496291 0.34885421 0.56071593 0.96550374 0.47931561 0.06613657\n [7] 0.26930898 0.98534847 0.87998837 0.65406234\n\n\n\n1+8\n\n[1] 9"
   }
 ]
