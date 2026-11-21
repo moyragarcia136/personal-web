@@ -1,0 +1,19 @@
+---
+title: "Datafest 2026"
+description: "Analyzed Stormont Vail Health clinical and geographic datasets in R, uncovering rural telehealth access patterns, transportation barriers, and patient follow-up continuity in Kansas to present actionable healthcare recommendations."
+image: "IMG_2201.HEIC"
+---
+
+### Project Deliverables
+
+::: {layout-ncol=2}
+
+::: {.card .text-center .p-3}
+
+
+[![](pres.png)](D10RWeThereYet.pdf.pdf)
+
+[**Presentation Slides**](D10RWeThereYet.pdf.pdf)
+:::
+
+:::

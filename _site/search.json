@@ -1,16 +1,44 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Personal Website",
+    "objectID": "index_proj.html",
+    "href": "index_proj.html",
+    "title": "Datafest 2026",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Project Deliverables\n\n\n\n\n\n\n\nPresentation Slides"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Moyra Garcia",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4\n\n\n\nrunif(10)\n\n [1] 0.37496291 0.34885421 0.56071593 0.96550374 0.47931561 0.06613657\n [7] 0.26930898 0.98534847 0.87998837 0.65406234\n\n\n\n1+8\n\n[1] 9"
+    "text": "Hi! I’m Moyra Garcia, a Statistics and Data Science student at UCLA passionate about turning messy, complex data into clear, actionable stories. From building AI-powered work-order engines to designing interactive Tableau dashboards, I love making complex analysis simple enough to drive real action. Currently, I’m exploring full-time opportunities in data analytics and data science."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Moyra Garcia",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | B.S in Statistics and Data Science | June 2027"
+  },
+  {
+    "objectID": "projects/datafest/index.html",
+    "href": "projects/datafest/index.html",
+    "title": "Datafest 2026",
+    "section": "",
+    "text": "Project Deliverables\n\n\n\n\n\n\n\nPresentation Slides"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Datafest 2026\n\n\nAnalyzed Stormont Vail Health clinical and geographic datasets in R, uncovering rural telehealth access patterns, transportation barriers, and patient follow-up continuity…\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Personal Website",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
