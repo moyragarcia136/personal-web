@@ -9,7 +9,7 @@ image: "expirement.jpeg"
 ::: {layout-ncol=3}
 
 ::: {.card .text-center .p-3}
-[![](pic.jpeg)](The%20Stats%20101B%20Research%20Proposal.pdf)
+[![](this.png)](The%20Stats%20101B%20Research%20Proposal.pdf)
 
 [**Research Proposal**](The%20Stats%20101B%20Research%20Proposal.pdf)
 :::
@@ -21,9 +21,9 @@ image: "expirement.jpeg"
 :::
 
 ::: {.card .text-center .p-3}
-[![](report.png)](Stats%20101B%20Final%20Report_2.pdf)
+[![](report.png)](Stats 101B Final Report.pdf))
 
-[**Final Statistical Report**](Stats%20101B%20Final%20Report_2.pdf)
+[**Final Statistical Report**](Stats 101B Final Report.pdf)
 :::
 
 :::

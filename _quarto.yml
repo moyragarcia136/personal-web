@@ -9,11 +9,13 @@ project:
     - "projects/wrkspace/WRKSPACE Slide Deck.pdf"
     - "projects/wrkspace/wrkspace.png"
     - "projects/Expiremental Design Project/expirement.jpeg"
-    - "projects/Expiremental Design Project/Stats 101B Final Report.pdf"
+    - "/Users/moyragarcia/Personal Website/projects/Expiremental Design Project/Stats 101B Final Report.pdf"
     - "projects/Expiremental Design Project/stats101b_project_rcode.html"
     - "projects/Expiremental Design Project/The Stats 101B Research Proposal.pdf"
     - "projects/Expiremental Design Project/report.png"
-    - "projects/Expiremental Design Project/pic.jpg"
+    - "/Users/moyragarcia/Personal Website/projects/Expiremental Design Project/pic.jpg"
+    - "/Users/moyragarcia/Personal Website/projects/datafest/present.png"
+    - "/Users/moyragarcia/Personal Website/projects/Expiremental Design Project/this.png"
 
 website:
   title: "Personal Website"

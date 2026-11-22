@@ -11,6 +11,6 @@ image: "health.png"
 ::: {.card .text-center .p-3}
 
 
-[![](pres.png)](D10RWeThereYet.pdf.pdf)
+[![](present.png)](D10RWeThereYet.pdf.pdf)
 
 [**Presentation Slides**](D10RWeThereYet.pdf.pdf)
