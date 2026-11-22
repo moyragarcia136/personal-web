@@ -1,0 +1,17 @@
+---
+title: "AI Readiness Website"
+description: "Built and published an interactive data visualization web project on UCLA HumSpace using Tableau to explore trends and insights in artificial intelligence development."
+image: "ai.jpeg"
+---
+
+### Project Deliverables
+
+::: {layout-ncol=2}
+
+::: {.card .text-center .p-3}
+[![](ai.jpeg)](https://aidevelopment.humspace.ucla.edu)
+
+[**Interactive Website**](https://aidevelopment.humspace.ucla.edu)
+:::
+
+:::

@@ -1,0 +1,29 @@
+---
+title: "Expiremental Design Project"
+description: "Designed and analyzed a paired repeated-measures experiment in R using a virtual simulation to evaluate how cognitive impairment impacts strategic efficiency and game outcomes in chess."
+image: "expirement.jpeg"
+---
+
+### Project Deliverables
+
+::: {layout-ncol=3}
+
+::: {.card .text-center .p-3}
+[![](pic.jpeg)](The%20Stats%20101B%20Research%20Proposal.pdf)
+
+[**Research Proposal**](The%20Stats%20101B%20Research%20Proposal.pdf)
+:::
+
+::: {.card .text-center .p-3}
+[![](code.png)](stats101b_project_rcode.html)
+
+[**R Analysis & Code**](stats101b_project_rcode.html)
+:::
+
+::: {.card .text-center .p-3}
+[![](report.png)](Stats%20101B%20Final%20Report_2.pdf)
+
+[**Final Statistical Report**](Stats%20101B%20Final%20Report_2.pdf)
+:::
+
+:::

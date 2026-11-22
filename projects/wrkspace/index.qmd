@@ -1,0 +1,23 @@
+---
+title: "wrkspace"
+description: "Developed an AI work-order classification engine, technician root-cause validation interface, and Facilities Intelligence Dashboard for the wrkspace platform, helping secure and execute a $15,000 contract with Glendale Community College."
+image: "wrkspace.png"
+---
+
+### Project Deliverables
+
+::: {layout-ncol=2}
+
+::: {.card .text-center .p-3}
+[![](pres.png)](WRKSPACE%20Slide%20Deck.pdf)
+
+[**Presentation Slides**](WRKSPACE%20Slide%20Deck.pdf)
+:::
+
+::: {.card .text-center .p-3}
+[![](wrkspace.png)](https://wrkspace.app/demo-day)
+
+[**Live Demo Website**](https://wrkspace.app/demo-day)
+:::
+
+:::

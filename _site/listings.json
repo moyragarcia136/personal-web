@@ -2,7 +2,10 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/datafest/index.html"
+      "/projects/ai/index.html",
+      "/projects/datafest/index.html",
+      "/projects/Expiremental Design Project/index.html",
+      "/projects/wrkspace/index.html"
     ]
   }
 ]

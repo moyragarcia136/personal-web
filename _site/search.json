@@ -1,10 +1,45 @@
 [
   {
-    "objectID": "index_proj.html",
-    "href": "index_proj.html",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Personal Website",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "AI Readiness Website\n\n\nBuilt and published an interactive data visualization web project on UCLA HumSpace using Tableau to explore trends and insights in artificial intelligence development.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDatafest 2026\n\n\nAnalyzed Stormont Vail Health clinical and geographic datasets in R, uncovering rural telehealth access patterns, transportation barriers, and patient follow-up continuity…\n\n\n\n\n\n\n\n\n\n\n\n\n\nExpiremental Design Project\n\n\nDesigned and analyzed a paired repeated-measures experiment in R using a virtual simulation to evaluate how cognitive impairment impacts strategic efficiency and game…\n\n\n\n\n\n\n\n\n\n\n\n\n\nwrkspace\n\n\nDeveloped an AI work-order classification engine, technician root-cause validation interface, and Facilities Intelligence Dashboard for the wrkspace platform, helping secure…\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/ai/index.html",
+    "href": "projects/ai/index.html",
+    "title": "AI Readiness Website",
+    "section": "",
+    "text": "Project Deliverables\n\n\n\n\n\n\n\nInteractive Website"
+  },
+  {
+    "objectID": "projects/Expiremental Design Project/index.html",
+    "href": "projects/Expiremental Design Project/index.html",
+    "title": "Expiremental Design Project",
+    "section": "",
+    "text": "Project Deliverables\n\n\n\n\n\n\n\nResearch Proposal\n\n\n\nR Analysis & Code\n\n\n\nFinal Statistical Report"
+  },
+  {
+    "objectID": "projects/datafest/index.html",
+    "href": "projects/datafest/index.html",
     "title": "Datafest 2026",
     "section": "",
     "text": "Project Deliverables\n\n\n\n\n\n\n\nPresentation Slides"
+  },
+  {
+    "objectID": "projects/wrkspace/index.html",
+    "href": "projects/wrkspace/index.html",
+    "title": "wrkspace",
+    "section": "",
+    "text": "Project Deliverables\n\n\n\n\n\n\n\nPresentation Slides\n\n\n\nLive Demo Website"
   },
   {
     "objectID": "index.html",
@@ -19,26 +54,5 @@
     "title": "Moyra Garcia",
     "section": "Education",
     "text": "Education\nUniversity of California, Los Angeles | B.S in Statistics and Data Science | June 2027"
-  },
-  {
-    "objectID": "projects/datafest/index.html",
-    "href": "projects/datafest/index.html",
-    "title": "Datafest 2026",
-    "section": "",
-    "text": "Project Deliverables\n\n\n\n\n\n\n\nPresentation Slides"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Datafest 2026\n\n\nAnalyzed Stormont Vail Health clinical and geographic datasets in R, uncovering rural telehealth access patterns, transportation barriers, and patient follow-up continuity…\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Personal Website",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
